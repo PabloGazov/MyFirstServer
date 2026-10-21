@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5Hv7v1WQyigCrIomIEHl/pQyjRxylbCv3mWWYHg596Y=",
+  "Source": "MyFirstServer",
+  "BasePath": "_content/MyFirstServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
